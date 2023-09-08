@@ -1,3 +1,4 @@
+Download "Super Cool & Fun Hangman Game" folder
 Open hangman.exe to begin the game. DO NOT DELETE ASSETS - THEY ARE NEEDED FOR GAME TO RUN.
 
 HOW TO PLAY:
