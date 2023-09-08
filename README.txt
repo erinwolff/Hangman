@@ -6,5 +6,6 @@ Make a guess - Use keyboard to input a letter (case-insensitive).
 Move onto the next guess - Press SPACE BAR or DIRECTIONAL KEYS (UP, DOWN, LEFT, RIGHT). 
 
 The game is over after guessing incorrectly 6 times.
+hangman.exe will close after game ends - must be re-opened to begin new game.
 
 Good luck, have fun :) <3
